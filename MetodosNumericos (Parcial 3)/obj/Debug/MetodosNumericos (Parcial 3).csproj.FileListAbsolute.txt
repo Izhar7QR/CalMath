@@ -1,0 +1,45 @@
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe.config
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).pdb
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.AssemblyReference.cache
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEuler.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEulerMejorado.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmInicio.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmNewtonRaphson.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.Properties.Resources.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmRungeKutta.resources
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.GenerateResource.cache
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.CoreCompileInputs.cache
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).exe
+C:\Users\CITPA\source\repos\MetodosNumericos (Parcial 3)\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).pdb
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe.config
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).pdb
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEuler.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEulerMejorado.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmGaussSeider.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmInicio.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmNewtonRaphson.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.Properties.Resources.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmRungeKutta.resources
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.GenerateResource.cache
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).exe
+C:\Users\HP\Documents\UPP\MetodosNumericos (Parcial 3) - copia\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).pdb
+D:\CalMath\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe.config
+D:\CalMath\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).exe
+D:\CalMath\MetodosNumericos (Parcial 3)\bin\Debug\MetodosNumericos (Parcial 3).pdb
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.AssemblyReference.cache
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.SuggestedBindingRedirects.cache
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEuler.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmEulerMejorado.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmGaussSeider.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmInicio.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmNewtonRaphson.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.Properties.Resources.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos__Parcial_3_.FrmRungeKutta.resources
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.GenerateResource.cache
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).csproj.CoreCompileInputs.cache
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).exe
+D:\CalMath\MetodosNumericos (Parcial 3)\obj\Debug\MetodosNumericos (Parcial 3).pdb
